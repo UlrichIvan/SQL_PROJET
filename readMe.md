@@ -1,3 +1,9 @@
+# Entities schema
+
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/425f33ca-e9c6-473e-9fa8-345bba9be6ad"/>
+ </p>
+
 # Choix de l'entreprise:
 
 - Association de distributions de nourritures
