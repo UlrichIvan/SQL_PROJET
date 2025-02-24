@@ -73,7 +73,7 @@ Les differents entités sont les suivantes :
 
    - city : string
 
-   - postalcode : integer
+   - postalcode : string
 
    - sector : string
 
@@ -103,7 +103,7 @@ Les differents entités sont les suivantes :
 
    - updatedAt : Date
 
-5. # oders
+5. # Donation
 
    - id : integer
 
