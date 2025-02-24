@@ -152,3 +152,34 @@ Les differents entités sont les suivantes :
    - createdAt : Date
 
    - updatedAt : Date
+
+3. # Activity
+
+   - id : integer
+
+   - title : string
+
+   - projectId : int
+
+   - createdAt : Date
+
+   - updatedAt : Date
+
+4. # project
+
+   - id : integer
+
+   - title : string
+
+   - city : string
+
+   - postalcode : integer
+
+   - sector : string
+
+   - createdAt : Date
+
+   - updatedAt : Date
+
+   - deleteAt : Date
+
