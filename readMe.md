@@ -1,7 +1,7 @@
 # Entities schema
 
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/425f33ca-e9c6-473e-9fa8-345bba9be6ad"/>
+  <img src="https://github.com/user-attachments/assets/dcb03f68-a85f-4cda-8ce6-86823886ea83"/>
  </p>
 
 # Choix de l'entreprise:
